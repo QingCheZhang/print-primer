@@ -1,3 +1,4 @@
 Arabidopsis_thaliana.TAIR10.dna.toplevel.fa filter=lfs diff=lfs merge=lfs -text
 main.py filter=lfs diff=lfs merge=lfs -text
 Arabidopsis_thaliana.TAIR10.56.gtf filter=lfs diff=lfs merge=lfs -text
+PrintThePrimerOnIsoform.exe filter=lfs diff=lfs merge=lfs -text
