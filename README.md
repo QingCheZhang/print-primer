@@ -1,6 +1,6 @@
 # print-primer
 print primer on gene
-<div style="display:flex; justify-content:space-between;">
+<div style="display:flex;  flex-direction:column; align-items:center;">
     <img src="figure/图片2.png" height="600"> 
     <img src="figure/图片1.png" height="700">
 </div>
